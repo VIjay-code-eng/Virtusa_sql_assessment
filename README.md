@@ -3,7 +3,7 @@
 
 ## Project Description
 
-This project is a SQL-based database system designed to store and analyze retail sales data. It simulates a simple e-commerce environment where customer purchases, products, and orders are recorded.
+I have developed an SQL-based database system designed to store and analyze retail sales data. It simulates a simple e-commerce environment where customer purchases, products, and orders are recorded.
 
 The main objective of this project is to practice SQL concepts such as table creation, data insertion, and data analysis using queries.
 
